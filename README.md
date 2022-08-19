@@ -26,7 +26,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<img height=60px src="https://img.icons8.com/fluent/96/dart.png"> 
 </td>
 
 <td align="center" width="20%">
