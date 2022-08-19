@@ -10,7 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Abhinav+Aggrawal+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+2%2B+years+of+experience+%F0%9F%93%88;In+building+backend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Abhinav Aggrawal" width="650" height="55">
 
 <p  align="center">
-       ![animation](https://user-images.githubusercontent.com/75481411/185580787-8c0ab064-1d34-4c1f-bf59-46ed4f6fabff.gif)     
+![animation](https://user-images.githubusercontent.com/75481411/185580942-97006aea-424b-424a-a7c8-c8c353812d3d.gif)
+    
 <br>
 
 # 🔥 Skills 🔥
