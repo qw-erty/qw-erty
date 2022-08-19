@@ -69,10 +69,14 @@ Here are some ideas to get you started:
   </a>
   &emsp;
  
- 
+</p>
+
+<p align="left">
+  
  ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-</p>
+  
+ </p>
 
 
 -----
