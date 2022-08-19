@@ -1,10 +1,8 @@
-### Hi there 👋
 
-
-# Hello there I am Abhinav 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+---
 
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
