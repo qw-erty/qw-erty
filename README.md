@@ -68,6 +68,10 @@ Here are some ideas to get you started:
     <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
   </a>
   &emsp;
+ 
+ 
+ ## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
 
