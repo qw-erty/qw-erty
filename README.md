@@ -15,8 +15,6 @@
 
 # 🔥 Skills 🔥
 
-## Tech Stack :computer:
-
 <br>
 <table>
 <tbody>
