@@ -25,8 +25,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/dart.png](https://img.icons8.com/color/344/tensorflow.png"> 
+<span><b><center>TensorFlow</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/344/tensorflow.png"> 
 </td>
 
 <td align="center" width="20%">
