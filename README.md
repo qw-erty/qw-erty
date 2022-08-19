@@ -71,7 +71,7 @@ Here are some ideas to get you started:
  
 </p>
 
-<p align="left">
+<p align="center">
   
  ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=qw-erty&theme=discord&no-frame=false&no-bg=false&margin-w=4)
