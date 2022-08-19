@@ -101,9 +101,9 @@
 
 <p align="center">
   <a href="https://github.com/AdityaKumar28">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaKumar28&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=AdityaKumar28&theme=react-dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=qw-erty&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qw-erty&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=qw-erty&theme=react-dark" />
   </a>
 </p>
 
