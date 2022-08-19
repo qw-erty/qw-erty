@@ -37,10 +37,6 @@ Here are some ideas to get you started:
   &emsp;
   <a> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
   </a>
   &emsp;
    <a>
@@ -55,9 +51,6 @@ Here are some ideas to get you started:
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
   </a>
   &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
   &emsp;
   <a> 
     <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
@@ -75,13 +68,6 @@ Here are some ideas to get you started:
     <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
   </a>
   &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
 </p>
 
 
